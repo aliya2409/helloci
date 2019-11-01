@@ -5,12 +5,12 @@
 *.[Cc]ache
 *.bak
 *.ncb
-*.log 
+*.log
+.idea
 
 target/
 .classpath
 .project
 .settings
-
 *.DS_Store
 [Tt]humbs.db
